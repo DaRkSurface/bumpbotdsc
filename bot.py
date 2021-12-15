@@ -11,8 +11,8 @@ from selenium import webdriver
 
 # Global Variables
 driver = webdriver.Chrome("/home/drk/Desktop/coding/python/selenium/driver/chromedriver")
-discordmail = "leonit123@gmail.com"
-discordpass = "Leonit123"
+discordmail = "email"
+discordpass = "password"
 # Code
 
 driver.get("https://discord.com/login")
